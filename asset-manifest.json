@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-resoume/static/css/main.b3bb6c00.css",
-    "main.js": "/react-resoume/static/js/main.3583875a.js",
+    "main.js": "/react-resoume/static/js/main.6d39ff97.js",
     "static/js/787.4b2bb19e.chunk.js": "/react-resoume/static/js/787.4b2bb19e.chunk.js",
     "static/media/color-sharp.png": "/react-resoume/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/react-resoume/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -29,11 +29,11 @@
     "static/media/telegram.svg": "/react-resoume/static/media/telegram.9232487f32d2b4830edebc1f12191e5a.svg",
     "index.html": "/react-resoume/index.html",
     "main.b3bb6c00.css.map": "/react-resoume/static/css/main.b3bb6c00.css.map",
-    "main.3583875a.js.map": "/react-resoume/static/js/main.3583875a.js.map",
+    "main.6d39ff97.js.map": "/react-resoume/static/js/main.6d39ff97.js.map",
     "787.4b2bb19e.chunk.js.map": "/react-resoume/static/js/787.4b2bb19e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3bb6c00.css",
-    "static/js/main.3583875a.js"
+    "static/js/main.6d39ff97.js"
   ]
 }
